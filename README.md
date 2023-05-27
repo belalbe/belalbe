@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @belalbe
-- 👀 I’m interested in embedded systems.
-- 🌱 I’m currently learning electronics and communication engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @belalbe (BELAL TAREK).
+- 👀 I’m interested in Embedded Systems.
+- 🌱 I’m currently learning electronics and Embedded Systems.
+- 📫 How to reach me : belaltarek6@gmail.com.
 
 <!---
 belalbe/belalbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
